@@ -1,0 +1,9 @@
+name: myelin-meta-analysis
+dependencies:
+  - r-metafor
+  - python=3.7
+  - pip:
+    - numpy == 1.18.4
+    - pandas == 0.25.3
+    - plotly == 4.8.1
+    - rpy2 == 3.3.4

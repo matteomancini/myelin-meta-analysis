@@ -1,5 +1,6 @@
 name: myelin-meta-analysis
 dependencies:
+  - r-base=3.6.1
   - r-metafor
   - python=3.7
   - pip

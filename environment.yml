@@ -1,4 +1,6 @@
 name: myelin-meta-analysis
+channels:
+  - conda-forge
 dependencies:
   - r-base=3.6.1
   - r-metafor

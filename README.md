@@ -2,6 +2,7 @@ The quest for measuring myelin with MRI – An interactive meta-analysis
 =========================================================
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matteomancini/myelin-meta-analysis/master?filepath=meta-analysis.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/matteomancini/myelin-meta-analysis/blob/master/meta-analysis.ipynb)
 
 <br>
 

@@ -2,7 +2,7 @@ name: myelin-meta-analysis
 channels:
   - conda-forge
 dependencies:
-  - libgomp1
+  - libgomp
   - r-base=3.6.1
   - r-metafor
   - python=3.7

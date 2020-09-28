@@ -14,7 +14,10 @@ This repository contains the Jupyter Notebook to generate the interactive figure
 
 ## Execute the notebook locally
 
-The required packages can be installed using pip:
+Python (3.7), Jupyter, R (3.6) and the R package [metafor](http://www.metafor-project.org) are required to run the notebook.
+The mixed-effect model is fitted using metafor through the package [rpy2](https://rpy2.github.io).
+
+The required Python packages can be installed using pip:
 
 ```
 pip install -r requirements.txt
@@ -30,7 +33,7 @@ jupyter nbconvert meta-analysis.ipynb --no-input
 ---
 **Note:**
 
-R and the metafor package are both needed to fit the mixed-effect model in `meta-analysis.ipynb` through the package rpy2. Alternatively, you can use the conda environment described in `environment.yml`.
+The very first code cell needs to be run on Google Colab in order to retrieve the necessary packages and files.
 
 ---
 

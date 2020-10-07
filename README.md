@@ -7,15 +7,14 @@ The quest for measuring myelin with MRI – An interactive meta-analysis
 <br>
 
 This repository contains the Jupyter Notebook to generate the interactive figures and the meta-analysis results for our study "The quest for measuring myelin with MRI – An interactive meta-analysis of quantitative comparisons with histology".
-[The full preprint is available on bioRxiv.](https://www.biorxiv.org/content/10.1101/2020.07.13.200972v2)
+[The full preprint is available on bioRxiv.](https://www.biorxiv.org/content/10.1101/2020.07.13.200972v3)
 
 
 <br>
 
 ## Execute the notebook locally
 
-Python (3.7), Jupyter, R (3.6) and the R package [metafor](http://www.metafor-project.org) are required to run the notebook.
-The mixed-effect model is fitted using metafor through the package [rpy2](https://rpy2.github.io).
+Python (3.7), Jupyter, R (3.6) and the R packages [metafor](http://www.metafor-project.org) and multcomp are required to run the notebook. The mixed-effect model is fitted using metafor through the package [rpy2](https://rpy2.github.io).
 
 The required Python packages can be installed using pip:
 

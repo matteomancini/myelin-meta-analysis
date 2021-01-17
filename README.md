@@ -7,9 +7,9 @@ An interactive meta-analysis of MRI biomarkers of myelin
 <br>
 
 This repository contains the Jupyter Notebook to generate the interactive figures and the meta-analysis results for our study "An interactive meta-analysis of MRI biomarkers of myelin"<sup>*</sup>.
-[The full preprint is available on bioRxiv.](https://www.biorxiv.org/content/10.1101/2020.07.13.200972v4)
+[It has been published on Elife as an executable research article (ERA).](https://elifesciences.org/articles/61523/executable)
 
-<sup>*</sup> It was previously entitled "The quest for measuring myelin with MRI – An interactive meta-analysis of quantitative comparisons with histology"."
+<sup>*</sup> It was previously entitled "The quest for measuring myelin with MRI – An interactive meta-analysis of quantitative comparisons with histology" on bioRxiv."
 
 <br>
 
